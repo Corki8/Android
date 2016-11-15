@@ -27,6 +27,7 @@
             android:text="＜"
             android:textSize="60sp"
             android:textColor="@color/colorWhite"
+            android:longClickable="true"
             />
     </LinearLayout>
 
